@@ -1,0 +1,40 @@
+body{
+    background-color: #141414;
+}
+main{
+    background-color: hsl(0, 0%, 12%);
+    padding: 24px;
+    margin: 24px;
+    text-align: center;
+    width: 89%;
+    border-radius: 10px;
+    min-width: 20rem;
+    max-width: 30rem;
+    margin-left: 33%;
+}
+h1{
+    color: white;
+}
+h2{
+    color: hsl(75, 94%, 57%);
+}
+p{
+    color: white;
+}
+.link{
+    color: white;
+}
+img{
+    border-radius: 100%;
+}
+footer{
+    text-align: center;
+}
+.all-link{
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    padding-top: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
